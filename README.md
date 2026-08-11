@@ -1,6 +1,5 @@
 # ZCHSound: Open-Source ZJU Paediatric Heart Sound Database With Congenital Heart Disease
 
-[[_TOC_]]
 
 ## 简介 / Introduction
 
@@ -14,6 +13,7 @@ ZCHSound 是一个开源的小儿心音数据库，由浙江大学医学院附�
 
 - **项目网站**: [http://zchsound.ncrcch.org.cn/](http://zchsound.ncrcch.org.cn/)
 - **DOI**: [10.1109/TBME.2023.3348800](https://doi.org/10.1109/TBME.2023.3348800)
+- **联系方式**:weijieovo69@gmail.com
 
 ## 引用 / Citation
 
